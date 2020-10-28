@@ -1,0 +1,53 @@
+﻿ 
+1、MySQL数据库默认用户名：root，密码root，安装后请重新设置密码。
+
+
+
+
+
+ phpStudy 2016.11.02   
+
+『软件简介』
+
+    该程序包集成最新的Apache+Nginx+LightTPD+PHP+MySQL+phpMyAdmin+Zend Optimizer+Zend Loader，一次性安装，无须配置即可使用，是非常方便、好用的PHP调试环境。该程序绿色小巧简易迷你仅有35M，有专门的控制面板。总之学习PHP只需一个包。
+　　对学习PHP的新手来说，WINDOWS下环境配置是一件很困难的事；对老手来说也是一件烦琐的事。因此无论你是新手还是老手，该程序包都是一个不错的选择。
+2、全面适合 Win2000/XP/2003/win7/win8/win2008 操作系统 ,支持Apache、IIS、Nginx和LightTPD。
+3、该程序包集成以下软件，括号内为phpstudy下对应的目录。
+   php 7.0.12   
+   php 5.6.27  
+   php 5.5.38 
+   php 5.4.35
+   php 5.2.17
+   Apache 2.4.23  
+   Nginx 1.11.5
+   MySQL 5.5.53  
+   MySQL-Front 5.3   
+   phpMyAdmin 3.5.8.2  
+   php_opcache 
+   xdebug 2.2.5
+   php_sqlsrv   
+   php_pdo_sqlsrv  
+  
+
+
+
+
+
+=====有问题的请仔细阅读下面内容。=================
+
+1. 如何调试打开PHP  参照：http://www.phpstudy.net/a.php/183.html
+2. 无法正常启动时   参照：http://www.phpstudy.net/a.php/184.html
+3. 如何修改端口及WWW目录     参照：http://www.phpstudy.net/a.php/185.html
+4. 修改或重置MySQL密码   参照：http://www.phpstudy.net/a.php/186.html
+5. 快速建立MySQL数据库   参照：http://www.phpstudy.net/a.php/187.html
+6. 如何添加多站点        参照：http://www.phpstudy.net/a.php/188.html
+7. 如何控制单一启停      参照：http://www.phpstudy.net/a.php/189.html
+8. 重装系统后启动        参照：http://www.phpstudy.net/a.php/190.html
+9. 如何更新升级          参照：http://www.phpstudy.net/a.php/191.html
+10. 提示没安装Zend或Zend Optimizer not Installed  参照：http://www.phpstudy.net/a.php/181.html
+11. IIS7/8快速安装PHP及注意事项   参照：http://www.phpstudy.net/a.php/182.html
+12. 如何禁止或允许站点目录列表    参照：http://www.phpstudy.net/a.php/192.html
+13. 自带Ftp Server如何使用        参照：http://www.phpstudy.net/a.php/193.html
+14. 自带挂马监视器如何使用        参照：http://www.phpstudy.net/a.php/194.html
+
+

@@ -1,0 +1,16 @@
+div, html, #app, body {
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.el-breadcrumb {
+  margin: 20px 0;
+}
+
+.el-step__title {
+  font-size: 13px !important;
+}
